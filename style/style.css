@@ -425,6 +425,10 @@ span {
     .homepage-articles-section-article {
         margin-bottom: 40px;
     }
+
+    .homepage-articles-section-article-advertisement-image {
+        display: none;
+    }
     
 
 }
